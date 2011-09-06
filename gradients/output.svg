@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="100%" height="100%" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+<linearGradient id="item1" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" style="stop-color:rgb(255,51,0); stop-opacity:1"/>
+<stop offset="5.2631578947368%" style="stop-color:rgb(219,255,185); stop-opacity:1"/>
+<stop offset="10.526315789474%" style="stop-color:rgb(255,233,23); stop-opacity:1"/>
+<stop offset="15.789473684211%" style="stop-color:rgb(136,203,120); stop-opacity:1"/>
+<stop offset="21.052631578947%" style="stop-color:rgb(33,139,0); stop-opacity:1"/>
+<stop offset="26.315789473684%" style="stop-color:rgb(255,116,8); stop-opacity:1"/>
+<stop offset="31.578947368421%" style="stop-color:rgb(136,203,120); stop-opacity:1"/>
+<stop offset="36.842105263158%" style="stop-color:rgb(136,203,120); stop-opacity:1"/>
+<stop offset="42.105263157895%" style="stop-color:rgb(136,203,120); stop-opacity:1"/>
+<stop offset="47.368421052632%" style="stop-color:rgb(255,160,14); stop-opacity:1"/>
+<stop offset="52.631578947368%" style="stop-color:rgb(255,233,23); stop-opacity:1"/>
+<stop offset="57.894736842105%" style="stop-color:rgb(136,203,120); stop-opacity:1"/>
+<stop offset="63.157894736842%" style="stop-color:rgb(136,203,120); stop-opacity:1"/>
+<stop offset="68.421052631579%" style="stop-color:rgb(153,0,0); stop-opacity:1"/>
+<stop offset="73.684210526316%" style="stop-color:rgb(209,28,0); stop-opacity:1"/>
+<stop offset="78.947368421053%" style="stop-color:rgb(255,116,8); stop-opacity:1"/>
+<stop offset="84.210526315789%" style="stop-color:rgb(153,0,0); stop-opacity:1"/>
+<stop offset="89.473684210526%" style="stop-color:rgb(33,139,0); stop-opacity:1"/>
+<stop offset="94.736842105263%" style="stop-color:rgb(255,116,8); stop-opacity:1"/>
+<stop offset="100%" style="stop-color:rgb(184,182,10); stop-opacity:1"/>
+</linearGradient>
+</defs>
+
+
+<rect width="630" height="10" x="10" y="10" style="fill:url(#item1)"/>
+</svg>
