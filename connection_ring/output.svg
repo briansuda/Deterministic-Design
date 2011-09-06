@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="100%" height="100%" version="1.1"
+xmlns="http://www.w3.org/2000/svg"><circle cx="300" cy="300" r="300" stroke="black" stroke-width="2" fill="none"/><text style="text-anchor:end;glyph-anchor:centerline;" fill="#ea5f33" transform="rotate(90 300,-10)"><tspan x="300"  y="-10">Name 0</tspan></text>
+<text style="text-anchor:end;glyph-anchor:centerline;" fill="#1d588b" transform="rotate(54 117.78657178933,49.204731743766)"><tspan x="117.78657178933"  y="49.204731743766">Name 1</tspan></text>
+<text style="text-anchor:end;glyph-anchor:centerline;" fill="#bb7468" transform="rotate(18 5.1724799485024,204.20473174377)"><tspan x="5.1724799485024"  y="204.20473174377">Name 2</tspan></text>
+<text style="text-anchor:end;glyph-anchor:centerline;" fill="#559183" transform="rotate(-18 5.1724799485024,395.79526825623)"><tspan x="5.1724799485024"  y="395.79526825623">Name 3</tspan></text>
+<text style="text-anchor:end;glyph-anchor:centerline;" fill="#a4ffce" transform="rotate(-54 117.78657178933,550.79526825623)"><tspan x="117.78657178933"  y="550.79526825623">Name 4</tspan></text>
+<text style="text-anchor:end;glyph-anchor:centerline;" fill="#b34c0e" transform="rotate(-90 300,610)"><tspan x="300"  y="610">Name 5</tspan></text>
+<text style="text-anchor:end;glyph-anchor:centerline;" fill="#40433d" transform="rotate(-126 482.21342821067,550.79526825623)"><tspan x="482.21342821067"  y="550.79526825623">Name 6</tspan></text>
+<text style="text-anchor:end;glyph-anchor:centerline;" fill="#f4a8fa" transform="rotate(-162 594.8275200515,395.79526825623)"><tspan x="594.8275200515"  y="395.79526825623">Name 7</tspan></text>
+<text style="text-anchor:end;glyph-anchor:centerline;" fill="#8b98ec" transform="rotate(-198 594.8275200515,204.20473174377)"><tspan x="594.8275200515"  y="204.20473174377">Name 8</tspan></text>
+<text style="text-anchor:end;glyph-anchor:centerline;" fill="#fafb7a" transform="rotate(-234 482.21342821067,49.204731743766)"><tspan x="482.21342821067"  y="49.204731743766">Name 9</tspan></text>
+<path opacity="0.5"   
+d="M300,0C300,92.705098312484,178.15511391266,132.29490168752,123.66442431226,57.294901687516" stroke="#ea5f33" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M300,0C300,176.33557568774,182.38814342394,261.78559128792,14.683045111454,207.29490168752" stroke="#ea5f33" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M300,0C300,242.70509831248,245.5093103996,317.70509831248,14.683045111454,392.70509831248" stroke="#ea5f33" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M123.66442431226,57.294901687516C178.15511391266,132.29490168752,300,92.705098312484,300,0" stroke="#1d588b" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M123.66442431226,57.294901687516C178.15511391266,132.29490168752,102.85083295532,235.94235253127,14.683045111454,207.29490168752" stroke="#1d588b" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M14.683045111454,207.29490168752C182.38814342394,261.78559128792,300,176.33557568774,300,0" stroke="#bb7468" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M14.683045111454,207.29490168752C102.85083295532,235.94235253127,178.15511391266,132.29490168752,123.66442431226,57.294901687516" stroke="#bb7468" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M14.683045111454,207.29490168752C300,300,300,300,585.31695488855,392.70509831248" stroke="#bb7468" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M14.683045111454,392.70509831248C300,300,300,300,585.31695488855,207.29490168752" stroke="#559183" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M14.683045111454,392.70509831248C286.0355942677,304.53731046861,308.63047737526,288.12116697566,476.33557568774,57.294901687516" stroke="#559183" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M123.66442431226,542.70509831248C178.15511391266,467.70509831248,102.85083295532,364.05764746873,14.683045111454,392.70509831248" stroke="#a4ffce" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M123.66442431226,542.70509831248C227.31187515602,400.04662086821,372.68812484398,400.04662086821,476.33557568774,542.70509831248" stroke="#a4ffce" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M123.66442431226,542.70509831248C266.32290175653,346.35254915624,354.4906896004,317.70509831248,585.31695488855,392.70509831248" stroke="#a4ffce" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M123.66442431226,542.70509831248C291.36952262474,311.87883302434,313.9644057323,295.46268953139,585.31695488855,207.29490168752" stroke="#a4ffce" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M123.66442431226,542.70509831248C300,300,300,300,476.33557568774,57.294901687516" stroke="#a4ffce" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M300,600C300,357.29490168752,245.5093103996,282.29490168752,14.683045111454,207.29490168752" stroke="#b34c0e" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M585.31695488855,392.70509831248C313.9644057323,304.53731046861,291.36952262474,288.12116697566,123.66442431226,57.294901687516" stroke="#f4a8fa" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M585.31695488855,207.29490168752C354.4906896004,282.29490168752,266.32290175653,253.64745084376,123.66442431226,57.294901687516" stroke="#8b98ec" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M585.31695488855,207.29490168752C417.61185657606,261.78559128792,300,176.33557568774,300,0" stroke="#8b98ec" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M585.31695488855,207.29490168752C497.14916704468,235.94235253127,497.14916704468,364.05764746873,585.31695488855,392.70509831248" stroke="#8b98ec" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M585.31695488855,207.29490168752C497.14916704468,235.94235253127,421.84488608734,132.29490168752,476.33557568774,57.294901687516" stroke="#8b98ec" 
+stroke-width="3" fill="none"/><path opacity="0.5"   
+d="M476.33557568774,57.294901687516C421.84488608734,132.29490168752,497.14916704468,235.94235253127,585.31695488855,207.29490168752" stroke="#fafb7a" 
+stroke-width="3" fill="none"/></svg>
