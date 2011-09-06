@@ -1,0 +1,3 @@
+This is a series of small scripts. Most output some SVG which can be used directly, or sent further through a chain to manipulate or rasterize the results.
+
+Many of these are sample code I have used in talks and in my book Designing With Data http://designingwithdata.com
