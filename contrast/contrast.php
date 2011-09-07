@@ -7,6 +7,7 @@ This is based on several different functions to compute maximum color contrast t
 
 See Also:
 http://24ways.org/2010/calculating-color-contrast
+http://optional.is/required/2011/01/12/maximum-color-contrast/
 
 TODO:
 Find a good contrast function for CMYK print. 
