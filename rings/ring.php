@@ -7,7 +7,7 @@ This will take an image and parse through all the pixels and attempt to make a n
 
 This is an idea similar to http://hint.fm/projects/wired2008/
 
-More about the process can be read about on netmagazine.com
+More about the process can be read about on http://netmagazine.com/tutorials/create-svg-data-visualisation-php
 
 Usage:
 php ring.php > output.svg
