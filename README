@@ -20,6 +20,9 @@ A basic "heatmap" style bar creation script. Used to encode two variables in a d
 ==maps==
 These are a series of scripts to produce geographically related SVG output
 
+==overlapper==
+Code to generate and place shapes inside of a polygon without overlap
+
 ==patterns==
 A set of scripts producing various random patterns
 
