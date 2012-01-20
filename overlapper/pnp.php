@@ -36,7 +36,7 @@ echo '<?xml version="1.0" standalone="no"?>
  
 <svg width="100%" height="100%" version="1.1"
 xmlns="http://www.w3.org/2000/svg">';
-for ($i=0;$i<10000;$i++){
+for ($i=0;$i<15000;$i++){
 	// Randomly placed objects
 	$x = rand(0,1000);
 	$y = rand(0,1000);
