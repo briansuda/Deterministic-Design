@@ -15,10 +15,10 @@ Find a good contrast function for CMYK print.
 */
 
 // You can pass in a HEX string
-$words = array('688937','18940d','78e926','ac744f','64f607');
+$words = array('3fcf02','36b0cf','03cf54','7b315a','da5dd6');
 
 // Or use the getColor function to convert a string into a HEX color
-$words = array(getColor('02010'),getColor('02019'),getColor('02020'));
+//$words = array(getColor('02010'),getColor('02019'),getColor('02020'));
 
 
 // Loop through each of the HEX strings and apply the different contrast functions

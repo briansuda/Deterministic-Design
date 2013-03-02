@@ -19,6 +19,8 @@ A basic "heatmap" style bar creation script. Used to encode two variables in a d
 
 ==maps==
 These are a series of scripts to produce geographically related SVG output
+===Joy Division===
+SVG code, plus GeoNames data, to create Joy Division style maps
 
 ==overlapper==
 Code to generate and place shapes inside of a polygon without overlap

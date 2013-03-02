@@ -19,7 +19,7 @@ echo '<?xml version="1.0" standalone="no"?>
 xmlns="http://www.w3.org/2000/svg">';
 
 
-$im = imagecreatefromjpeg("example.jpg");
+$im = imagecreatefromjpeg("map.jpg");
 $x = imagesx($im);
 $y = imagesy($im);
 
