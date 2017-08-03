@@ -21,13 +21,14 @@ $rows  = 129;
 
 // See the Cellular Automata with the current time or a string of your choice
 $seed = time();
-$seed = hexdec(substr(md5('Brian Suda'),0,10));
+$seed = hexdec(substr(md5('38°C'),0,10));
 
 $matrix = array();
 $j = 1;
 for($i=0;$i<$width;$i++){
 	// get the bit to seed the first row
-	$matrix[0][$i] = ($seed/pow(2,$j))%2;	
+	$matrix[0][$i] = ($seed/pow(2,$j))%2;
+	//print (($seed/pow(2,$j))%2)."\n";
 	// keeps the mod from getting huge
 	if($j > 32) { $j = 1; } else { $j++; }
 }
@@ -76,8 +77,7 @@ function isOn($pos,$row){
 		$pos3 = $row[$pos+1];
 	}
 
-	/* 
-	
+		/* 
 	// RULE 30
 	if($pos1 == 1 && $pos2 == 1 && $pos3 == 1) { return 0; }
 	if($pos1 == 1 && $pos2 == 1 && $pos3 == 0) { return 0; }
@@ -87,6 +87,7 @@ function isOn($pos,$row){
 	if($pos1 == 0 && $pos2 == 1 && $pos3 == 0) { return 1; }
 	if($pos1 == 0 && $pos2 == 0 && $pos3 == 1) { return 1; }
 	if($pos1 == 0 && $pos2 == 0 && $pos3 == 0) { return 0; }
+
 
 	// RULE 110
 	if($pos1 == 1 && $pos2 == 1 && $pos3 == 1) { return 0; }
@@ -98,6 +99,8 @@ function isOn($pos,$row){
 	if($pos1 == 0 && $pos2 == 0 && $pos3 == 1) { return 1; }
 	if($pos1 == 0 && $pos2 == 0 && $pos3 == 0) { return 0; }	
 
+	*/
+
 	// RULE 45
 	if($pos1 == 1 && $pos2 == 1 && $pos3 == 1) { return 0; }
 	if($pos1 == 1 && $pos2 == 1 && $pos3 == 0) { return 0; }
@@ -107,7 +110,7 @@ function isOn($pos,$row){
 	if($pos1 == 0 && $pos2 == 1 && $pos3 == 0) { return 1; }
 	if($pos1 == 0 && $pos2 == 0 && $pos3 == 1) { return 0; }
 	if($pos1 == 0 && $pos2 == 0 && $pos3 == 0) { return 1; }
-
+	/*
 	// RULE 121
 	if($pos1 == 1 && $pos2 == 1 && $pos3 == 1) { return 0; }
 	if($pos1 == 1 && $pos2 == 1 && $pos3 == 0) { return 1; }
@@ -268,7 +271,7 @@ function isOn($pos,$row){
 	if($pos1 == 0 && $pos2 == 0 && $pos3 == 1) { return 1; }
 	if($pos1 == 0 && $pos2 == 0 && $pos3 == 0) { return 1; }
 
-	*/
+
 	// RULE 86
 	if($pos1 == 1 && $pos2 == 1 && $pos3 == 1) { return 0; }
 	if($pos1 == 1 && $pos2 == 1 && $pos3 == 0) { return 1; }
@@ -278,7 +281,7 @@ function isOn($pos,$row){
 	if($pos1 == 0 && $pos2 == 1 && $pos3 == 0) { return 1; }
 	if($pos1 == 0 && $pos2 == 0 && $pos3 == 1) { return 1; }
 	if($pos1 == 0 && $pos2 == 0 && $pos3 == 0) { return 0; }
-	
+	*/	
 	
 }
 

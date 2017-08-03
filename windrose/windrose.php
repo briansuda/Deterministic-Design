@@ -78,14 +78,14 @@ function stepper($angle){
   $steps = 18;
 
   // Start color
-  $r1 = 255;
-  $g1 = 250;
-  $b1 = 245;
+  $r1 = 15;
+  $g1 = 9;
+  $b1 = 8;
 
   // End color
-  $r2 = 0;
-  $g2 = 76;
-  $b2 = 159;
+  $r2 = 71;
+  $g2 = 103;
+  $b2 = 146;
 
   $steps = ($steps + 1);
   $r_diff = abs($r1-$r2)/$steps;
